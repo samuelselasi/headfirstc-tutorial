@@ -30,19 +30,19 @@ Linux and mac users dont have to do this insatllation
 * Open cmd and type [gcc --version] to verify installation
  
  # cards.c
-program to evaluate the value of cards
+Program to evaluate the value of cards
  * It will display the value of a card
 
  # cards2.c
- cards.c program modified so that it can be used for card counting. 
+ The cards.c code is modified so that it can be used for card counting. 
  * It will need to display one message if the value of the card is from 3 to 6. 
  * It will need to display a different message if the card is a 10, Jack, Queen, or King.
 
  # cards3.c
-cards2.c program code modified
+The cards2.c code is modified
  * If statement is replaced with switch
 
   # cards4.c
-cards3.c program modified in code and functionality
+The cards3.c code is modified in code and functionality to produce a complete card counting machine.
  * Switch statement is put in a while loop
  * This displays the card count after each card and ends when user enters X
