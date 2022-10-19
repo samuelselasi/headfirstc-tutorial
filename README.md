@@ -5,7 +5,7 @@ This is a guide for beginners learning C from scratch with Head First C book by 
 
 * Comments will be added on challenging exercises
 
-# c insatllation (windows)
+# C Insatllation (windows)
 Linux and mac users dont have to do this insatllation 
 * Go to MinGW official website and click on 'Downloads' 
 
