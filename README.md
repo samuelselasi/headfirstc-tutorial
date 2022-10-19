@@ -41,3 +41,8 @@ program to evaluate the value of cards
  # cards3.c
 cards2.c program code modified
  * If statement is replaced with switch
+
+  # cards4.c
+cards3.c program modified in code and functionality
+ * Switch statement is put in a while loop
+ * This displays the card count after each card and ends when user enters X
