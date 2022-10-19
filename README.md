@@ -1,10 +1,12 @@
-# headfirstc-tutorial
-Exercises in Head First C book 
+# Head First C 
+This is a guide for beginners learning C from scratch with Head First C book by David & Dawn Griffiths
 
 * This includes all the tutorial exercises in the book 
 
 * Comments will be added on challenging exercises
 
+# c insatllation (windows)
+Linux and mac users dont have to do this insatllation 
 * Go to MinGW official website and click on 'Downloads' 
 
 * Download mingw-get-setup.exe and accept the terms 
