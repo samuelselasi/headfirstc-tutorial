@@ -50,3 +50,9 @@ The cards3.c code is modified in code and functionality to produce a complete ca
   # southeast.c
 This program uses pointers to update data
  * It uses custom data to update the location
+
+  # fortunecookie.c
+This program exhibits how functions can be passed as pointers
+ * The function receives the value of an array variable as an address so the mesg is a pointer to the char
+ * The msg is printed from pointer variable and it takes 8 bytes to store a pointer
+ * The program returns b bytes because it returns the pointer of the array instead of the actual message
