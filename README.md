@@ -46,3 +46,7 @@ The cards2.c code is modified
 The cards3.c code is modified in code and functionality to produce a complete card counting machine.
  * Switch statement is put in a while loop
  * This displays the card count after each card and ends when user enters X
+
+  # southeast.c
+This program uses pointers to update data
+ * It uses custom data to update the location
